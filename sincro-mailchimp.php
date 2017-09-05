@@ -17,7 +17,7 @@
  * Plugin URI:        
  * Description:       Il plugin permette di registrare/eliminare la registrazione di un utente dalla Mailing List MailChimp tramite un'opzione dalla 	
  *				      pagina WordPress di modifica profilo utente
- * Version:           1.0.0
+ * Version:           1.1.0
  * Author:            Dario Morbidi
  * Author URI:        
  * License:           GPL-2.0+
